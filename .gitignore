@@ -1,0 +1,19 @@
+#ignore netbeans configs
+nbproject/
+nbproject/*
+
+#ignore KH's testing file
+testing.php
+
+#ignore local pictures
+INF1005_Project/assets/acc_pic/*
+
+INF1005_Project/assets/game/landing/*
+INF1005_Project/assets/game/shop/*
+INF1005_Project/assets/game/video/*
+!INF1005_Project/assets/game/landing/default*
+!INF1005_Project/assets/game/shop/default*
+!INF1005_Project/assets/game/video/default*
+
+INF1005_Project/assets/images/carousel/*
+!INF1005_Project/assets/images/carousel/default*
