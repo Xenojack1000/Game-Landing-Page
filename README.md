@@ -1,7 +1,6 @@
 # 🎮 Stealth Learning Game Distribution Platform
 
-![Project Screenshot](<img width="618" height="215" alt="image" src="https://github.com/user-attachments/assets/2299722b-1c5c-41ab-9bdb-dc19f635fbb3" />
-)
+<img width="618" height="215" alt="image" src="https://github.com/user-attachments/assets/2299722b-1c5c-41ab-9bdb-dc19f635fbb3" />
 
 ## Overview
 
